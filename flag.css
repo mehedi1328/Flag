@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flag{
+    height: 600px;
+    width: 900px;
+    background-color: #CF1026;
+    border: 5px solid white;
+}
+p{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 5rem;
+    margin-bottom: 60px;
+}
+.color{
+    background-color: #042868;
+    height: 300px;
+    position: relative;
+
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 50%;
+    left: 39%;
+    position: absolute;
+    top: 50px;
+    
+}
+.circle>p{
+    color: black;
+}
